@@ -1,1 +1,1 @@
-cookbook_path [ '/home/qburst/chef-solo-demo/chef-repo/cookbooks' ]
+cookbook_path [ '/root/chef-solo-demo/chef-repo/cookbooks' ]
